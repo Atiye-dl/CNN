@@ -1,5 +1,5 @@
 # CNN
-Training a CNN and test it on different datasets
+Training a CNN and test it on different datasets based on python
 
 This dataset consists of 10 classes from 10 different animal species. 70% of the dataset is for training, 10% for validation, and 20% for testing.
 
